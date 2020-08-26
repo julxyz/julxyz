@@ -5,4 +5,4 @@
 
 🏭 My main project right now is my [discord bot](https://github.com/peach-bot/Peach).
 
-🌐 Check out my website: [jul.xyz](https://jul.xyz).
+🌐 Check out my [website](https://jul.xyz) for more stuffs.
