@@ -6,3 +6,7 @@
 🏭 My main project right now is my [discord bot](https://github.com/peach-bot/Peach).
 
 🌐 Check out my [website](https://jul.xyz) for more stuffs.
+
+
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=julxyz&theme=dracula)
