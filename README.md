@@ -1,5 +1,4 @@
 <a href="https://discord.com/users/216994889156657153"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/216994889156657153?borderRadius=8px&hideBadges=true&theme=light"/></a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="24px"/>
 
 ## Hey I'm jul 👋
 
