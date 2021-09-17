@@ -1,12 +1,9 @@
-### Hey I'm jul
+<a href="https://discord.com/users/216994889156657153"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/216994889156657153?borderRadius=8px&hideBadges=true&theme=light"/></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="24px"/>
+
+## Hey I'm jul 👋
 
 
 💬 If you want to reach me you're best off contacting me on [discord](https://discord.com/users/216994889156657153).
 
-🏭 My main project right now is my [discord bot](https://github.com/peach-bot/Peach).
-
-🌐 Check out my [website](https://jul.xyz) for more stuffs.
-
-
-
-![my github stats](https://github-readme-stats.vercel.app/api?username=julxyz&theme=dracula)
+[🌐 my website](https://jul.xyz) | [🎧 last.fm](https://www.last.fm/user/julxyz)
